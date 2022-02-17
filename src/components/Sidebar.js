@@ -7,6 +7,7 @@ function Sidebar() {
             <div className ="sidebar-header">
                 <div className = "sidebar-header-img">
                     <img  src ="./user.png" alt="" />  
+                
                  </div>    
             </div>
         </div>
